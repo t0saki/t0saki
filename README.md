@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-Welcome to view my website [zhxwu.com](https://t0saki.com)!
- 
+Welcome to view my website [t0saki.com](https://t0saki.com)!
+
 <!--
 **t0saki/t0saki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
